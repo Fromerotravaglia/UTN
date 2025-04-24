@@ -1,5 +1,5 @@
-# UTN 
-// Nombre apellido y legajo
+# DATOS DEL ESTUDIANTE
+Nombre y apellido: Facundo Ezequiel Romero Travaglia | Legajo: 215.083-9
 
 # COMPILADOR
 g++.exe (Rev3, Built by MSYS2 project) 14.2.0
